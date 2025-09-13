@@ -1,0 +1,6 @@
+[submodule "banking-backend-app"]
+	path = banking-backend-app
+	url = https://github.com/gyarsilalsolanki011/banking-backend-app.git
+[submodule "banikng-frontend-app"]
+	path = banikng-frontend-app
+	url = https://github.com/gyarsilalsolanki011/banking-fontend-app.git
