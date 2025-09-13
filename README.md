@@ -36,7 +36,7 @@ banking-application/
 ## 🛠️ Setup Instructions
 #### 1️⃣ Clone the Parent Repository with Submodules
 ```bash
-git clone --recurse-submodules https://github.com/<your-username>/banking-application.git
+git clone --recurse-submodules https://github.com/eleven-dev-cafe/banking-application.git
 ```
 If you already cloned without --recurse-submodules, run:
 ```bash
